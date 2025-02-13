@@ -162,10 +162,6 @@ docker-compose.override.yml
 # If you are using Swagger UI, ignore temporary files
 *.json
 
-# Aiogram
-# Ignore files that may be created when working with Aiogram
-*.pkl
-
 # System Files
 .DS_Store
 Thumbs.db
