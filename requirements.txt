@@ -1,0 +1,14 @@
+aiogram==3.17.0
+cython==0.29.37
+mako==1.3.8
+markdown==3.7
+meson==1.3.2
+pandas==2.2.3
+pip-chill==1.0.3
+pipenv==2023.2.18
+pipreqs==0.5.0
+scikit-learn==1.6.1
+tinycss2==1.4.0
+xgboost==2.1.4
+seaborn==0.13.2
+ydata_profiling==4.12.2
