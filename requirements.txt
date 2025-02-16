@@ -12,3 +12,4 @@ tinycss2==1.4.0
 xgboost==2.1.4
 seaborn==0.13.2
 ydata_profiling==4.12.2
+joblib==1.4.2
