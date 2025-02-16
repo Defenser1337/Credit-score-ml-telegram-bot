@@ -1,4 +1,4 @@
-# Default risk telegram bot
+# Credit score ml telegram bot
 
 This telegram bot can help you estimate your credit score without going to the bank. The bot works using a machine learning model trained on this dataset [Credit score classification](https://www.kaggle.com/datasets/parisrohan/credit-score-classification).
 
@@ -19,7 +19,7 @@ You can deploy your own bot or use mine.
 2. Clone the repository into your directory
 ```bash
 cd path/to/your/directory
-git clone https://github.com/Defenser1337/default-risk-ml-telegram-bot.git
+git clone https://github.com/Defenser1337/Credit-score-ml-telegram-bot.git
 ```
 3. Create a new `.venv`, then install all dependencies
 ```bash
